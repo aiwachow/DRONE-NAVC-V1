@@ -1,0 +1,17 @@
+../Core/Src/Drivers/LPS25HB_I2C.c:19:28:LPS25HB_Read_Reg	40	static
+../Core/Src/Drivers/LPS25HB_I2C.c:24:28:LPS25HB_Read_Regs	48	static
+../Core/Src/Drivers/LPS25HB_I2C.c:29:28:LPS25HB_Write_Reg	40	static
+../Core/Src/Drivers/LPS25HB_I2C.c:38:28:LPS25HB_Read_Regs_DMA	32	static
+../Core/Src/Drivers/LPS25HB_I2C.c:43:28:LPS25HB_Read_Regs_IT	32	static
+../Core/Src/Drivers/LPS25HB_I2C.c:50:16:LPS25HB_ID_CORRECT	24	static
+../Core/Src/Drivers/LPS25HB_I2C.c:65:20:LPS25HB_INIT	32	static
+../Core/Src/Drivers/LPS25HB_I2C.c:101:20:LPS25HB_ENABLE_INT	24	static
+../Core/Src/Drivers/LPS25HB_I2C.c:117:7:LPS25HB_FIFO_MEAN	24	static
+../Core/Src/Drivers/LPS25HB_I2C.c:143:10:LPS25HB_FIFO_STATUS_CHECK	24	static
+../Core/Src/Drivers/LPS25HB_I2C.c:155:19:LPS25HB_READ_TEMP	24	static
+../Core/Src/Drivers/LPS25HB_I2C.c:170:19:LPS25HB_READ_PRESSURE	24	static
+../Core/Src/Drivers/LPS25HB_I2C.c:192:19:LPS25HB_PRESSURE_OFFSET	24	static
+../Core/Src/Drivers/LPS25HB_I2C.c:208:16:LPS25HB_READ_PRESS_DMA	16	static
+../Core/Src/Drivers/LPS25HB_I2C.c:214:13:LPS25HB_READ_PRESS_DMA_COMPLETE	16	static
+../Core/Src/Drivers/LPS25HB_I2C.c:224:13:LPS25HB_ESTIMATE_ALTITUDE	24	static
+../Core/Src/Drivers/LPS25HB_I2C.c:233:6:SWAP_TO_POLLING_MODE	4	static

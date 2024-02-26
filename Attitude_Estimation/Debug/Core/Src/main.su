@@ -1,0 +1,8 @@
+../Core/Inc/I2C_BusMonitor.h:25:6:ScanI2CBus	24	static
+../Core/Inc/I2C_BusMonitor.h:55:6:CheckI2Cfaults	16	static
+../Core/Src/main.c:117:5:__io_putchar	16	static
+../Core/Src/main.c:128:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:174:6:HAL_TIM_OC_DelayElapsedCallback	16	static
+../Core/Src/main.c:223:5:main	64	static
+../Core/Src/main.c:313:6:SystemClock_Config	96	static
+../Core/Src/main.c:367:6:Error_Handler	4	static,ignoring_inline_asm

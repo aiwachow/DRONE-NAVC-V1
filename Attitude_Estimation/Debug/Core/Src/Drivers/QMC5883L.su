@@ -1,0 +1,5 @@
+../Core/Src/Drivers/QMC5883L.c:15:28:QMC5883L_Read_Reg	40	static
+../Core/Src/Drivers/QMC5883L.c:20:28:QMC5883L_Read_Regs	48	static
+../Core/Src/Drivers/QMC5883L.c:25:28:QMC5883L_Write_Reg	40	static
+../Core/Src/Drivers/QMC5883L.c:30:9:QMC5883L_INIT	32	static
+../Core/Src/Drivers/QMC5883L.c:93:10:QMC5883L_ReadMag	72	static
