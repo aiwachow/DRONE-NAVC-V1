@@ -1,5 +1,5 @@
 # Board
-![SYSTEM_KONTROLI_LOTU](https://github.com/aiwachow/DRONE-NAVC-V1-STM32-KICAD/assets/92248273/ea74bde0-ddaa-4b0d-87e2-1b194b2b998e)
+![SYSTEM_KONTROLI_LOTU](https://github.com/aiwachow/DRONE-NAVC-V1-STM32-KICAD/assets/92248273/a846c828-3ee0-4a3a-bc49-8de660e7ef3f)
 
 
 
