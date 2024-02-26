@@ -1,3 +1,7 @@
+# Board
+![429119402_1565496844240203_8726830938019414187_n](https://github.com/aiwachow/DRONE-NAVC-V1-STM32-KICAD/assets/92248273/b48bc0fa-d12d-44ef-a92f-b0057412133b)
+
+
 # Visualization 
 ![dronPitch](https://github.com/aiwachow/DRONE-NAVC-V1-STM32-KICAD/assets/92248273/4db01ff6-65dd-46d6-b48b-31732e3748ea)
 
