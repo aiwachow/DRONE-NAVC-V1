@@ -1,4 +1,5 @@
 # Board
+![SYSTEM_KONTROLI_LOTU](https://github.com/aiwachow/DRONE-NAVC-V1-STM32-KICAD/assets/92248273/bd72142c-01d0-4507-8be9-11d848de0a4c)
 
 
 
