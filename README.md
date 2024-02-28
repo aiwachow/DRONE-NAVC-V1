@@ -1,6 +1,6 @@
 # NAVIGATION-ORIENTATION SYSTEM 
-STM32 based flight controller for unmanned drone aircraft. 
-Pcb has been manufactured and tested. However it does not work pefectively. 
+STM32 based flight controller for unmanned drone aircraft. <br />
+Pcb has been manufactured and tested. However it does not work pefectively. <br />
 It's just a demo for educational purposes. 
 
 ## Board
