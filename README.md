@@ -1,3 +1,7 @@
+STM32 based flight controller for unmanned drone aircraft. 
+Pcb has been manufactured and tested. However it does not work pefectively. 
+It's just a demo for educational purposes. 
+
 # Board
 ![SYSTEM_KONTROLI_LOTU](https://github.com/aiwachow/DRONE-NAVC-V1-STM32-KICAD/assets/92248273/a846c828-3ee0-4a3a-bc49-8de660e7ef3f)
 
