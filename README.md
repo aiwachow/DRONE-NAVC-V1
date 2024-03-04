@@ -1,6 +1,6 @@
 # NAVIGATION CONTROL SYSTEM 
 STM32 based flight controller for unmanned drone aircraft. <br />
-Pcb has been manufactured and tested. However it does not work pefectively. <br />
+Pcb has been manufactured and tested. However this design isn't perfect. <br />
 It's just a demo for educational purposes. <br />
 
 
