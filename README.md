@@ -20,5 +20,4 @@ I also made some basic 3D visualization in Python, in the future in QT. Mcu comm
 
 ![dronRoll](https://github.com/aiwachow/DRONE-NAVC-V1-STM32-KICAD/assets/92248273/389c8570-1078-4b80-856b-33aead92614f)
 ### Some theory behind attitude estimation in Polish 
-[Attitude_Estimation_Theory.pdf](https://github.com/aiwachow/DRONE-NAVC-V1-STM32-KICAD/files/14404460/Attitude_Estimation_Theory.pdf)
-
+[Attitude_Estimation_Theory_Adam_Iwachów.pdf](https://github.com/aiwachow/DRONE-NAVC-V1/files/14794682/Attitude_Estimation_Theory_Adam_Iwachow.pdf)
