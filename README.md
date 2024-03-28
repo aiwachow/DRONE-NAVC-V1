@@ -6,8 +6,9 @@ It's just a demo for educational purposes. <br />
 
 ## Board
 ![SYSTEM_KONTROLI_LOTU](https://github.com/aiwachow/DRONE-NAVC-V1-STM32-KICAD/assets/92248273/a846c828-3ee0-4a3a-bc49-8de660e7ef3f)
-## Used tools: 
-![kicadlogo](https://github.com/aiwachow/Micromouse_Hardware/assets/92248273/8c590a70-78c1-4293-bc5e-02a7723171ed) ![stm32cubeideLOGO](https://github.com/aiwachow/Micromouse_Hardware/assets/92248273/35800445-a62c-46c4-b7a9-888d3d31070a)
+## Used software: 
+![kicadlogo](https://github.com/aiwachow/Micromouse_Hardware/assets/92248273/8c590a70-78c1-4293-bc5e-02a7723171ed) ![stm32cubeideLOGO](https://github.com/aiwachow/Micromouse_Hardware/assets/92248273/35800445-a62c-46c4-b7a9-888d3d31070a)![pythonLOGO](https://github.com/aiwachow/DRONE-NAVC-V1/assets/92248273/31e868a2-5094-4177-9947-cd9c9c068dce)
+
 
 
 
