@@ -1,4 +1,4 @@
-# NAVIGATION CONTROL SYSTEM - TEST BOARD 
+# NAVIGATION CONTROL SYSTEM - SECOND VERSION
 STM32 based flight controller for unmanned drone aircraft. <br />
 Pcb has been manufactured and tested. However this design isn't perfect. the main issues are: <br />
 - PCB is quite too large, 
