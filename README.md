@@ -2,8 +2,10 @@
 STM32 based flight controller for unmanned drone aircraft. <br />
 Pcb has been manufactured and tested. However this design isn't perfect. the main issues are: <br />
 - PCB is quite too large, 
-- selected microcontroller is difficult to access
-s. <br />
+- selected microcontroller is difficult to access.
+
+However this board works and i used it for educational purpose such as attitude estimation etc. 
+
 I am simultaneously designing a newer version of this controller. 
 
 ## Board
