@@ -6,7 +6,7 @@ Pcb has been manufactured and tested. However this design isn't perfect. the mai
 
 However this board works and i used it for educational purpose such as attitude estimation etc. 
 
-I am simultaneously designing a newer version of this controller. 
+I am simultaneously designing a newer version of this controller: branch NAVC_V2. 
 
 ## Board
 ![SYSTEM_KONTROLI_LOTU](https://github.com/aiwachow/DRONE-NAVC-V1-STM32-KICAD/assets/92248273/a846c828-3ee0-4a3a-bc49-8de660e7ef3f)
