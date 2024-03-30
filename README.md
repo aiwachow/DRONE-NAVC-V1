@@ -1,8 +1,10 @@
 # NAVIGATION CONTROL SYSTEM - TEST BOARD 
 STM32 based flight controller for unmanned drone aircraft. <br />
-Pcb has been manufactured and tested. However this design isn't perfect. <br />
-It's just a demo for educational purposes. <br />
-
+Pcb has been manufactured and tested. However this design isn't perfect. the main issues are: <br />
+- PCB is quite too large, 
+- selected microcontroller is difficult to access
+s. <br />
+I am simultaneously designing a newer version of this controller. 
 
 ## Board
 ![SYSTEM_KONTROLI_LOTU](https://github.com/aiwachow/DRONE-NAVC-V1-STM32-KICAD/assets/92248273/a846c828-3ee0-4a3a-bc49-8de660e7ef3f)
