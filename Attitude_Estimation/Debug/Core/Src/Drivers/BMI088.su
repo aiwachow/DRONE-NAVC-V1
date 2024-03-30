@@ -1,0 +1,11 @@
+../Core/Src/Drivers/BMI088.c:17:28:BMI088_Read_Reg	40	static
+../Core/Src/Drivers/BMI088.c:28:28:BMI088_Read_Regs	48	static
+../Core/Src/Drivers/BMI088.c:38:28:BMI088_Write_Reg	40	static
+../Core/Src/Drivers/BMI088.c:48:18:CheckErrors	24	static
+../Core/Src/Drivers/BMI088.c:76:28:BMI088_Read_Regs_DMA	32	static
+../Core/Src/Drivers/BMI088.c:87:16:BMI088_ID_CORRECT	24	static
+../Core/Src/Drivers/BMI088.c:98:9:BMI088_INIT	24	static
+../Core/Src/Drivers/BMI088.c:273:9:BMI088_ReadAcc	40	static
+../Core/Src/Drivers/BMI088.c:296:6:BMI088_ReadGyro	40	static
+../Core/Src/Drivers/BMI088.c:320:7:BMI088_ReadAccGyro_DMA	24	static
+../Core/Src/Drivers/BMI088.c:327:7:BMI088_ReadAccGyro_DMA_COMPLETE	16	static

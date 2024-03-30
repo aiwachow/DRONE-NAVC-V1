@@ -1,0 +1,17 @@
+../Core/Src/Drivers/ADXL345.c:12:27:ADXL345_Read_Reg	40	static
+../Core/Src/Drivers/ADXL345.c:17:27:ADXL345_Read_Regs	40	static
+../Core/Src/Drivers/ADXL345.c:23:27:ADXL345_Write_Reg	40	static
+../Core/Src/Drivers/ADXL345.c:29:9:ADXL_INIT	24	static
+../Core/Src/Drivers/ADXL345.c:100:9:ADXL345_SetRate	24	static
+../Core/Src/Drivers/ADXL345.c:117:9:ADXL345_SetRange	24	static
+../Core/Src/Drivers/ADXL345.c:132:9:ADXL345_SetAutoSleep_Sleep_SleepHz	24	static
+../Core/Src/Drivers/ADXL345.c:161:19:ADXL345_readACC	40	static
+../Core/Src/Drivers/ADXL345.c:206:9:ADXL345_SetOFS	40	static
+../Core/Src/Drivers/ADXL345.c:244:9:ADXL345_EnableINTERRUPTS	24	static
+../Core/Src/Drivers/ADXL345.c:273:13:ADXL_GetSourceOfINT	24	static
+../Core/Src/Drivers/ADXL345.c:295:13:getAxis	56	static
+../Core/Src/Drivers/ADXL345.c:304:16:ADXL_GetAxisSource	24	static
+../Core/Src/Drivers/ADXL345.c:320:9:ADXL345_Enable_ACT_AXES	24	static
+../Core/Src/Drivers/ADXL345.c:338:9:ADXL345_Enable_INACT_AXES	24	static
+../Core/Src/Drivers/ADXL345.c:363:9:ADXL345_SET_ACT_PARAMS	40	static
+../Core/Src/Drivers/ADXL345.c:393:9:ADXL345_ENABLE_SINGLE_TAP	40	static
