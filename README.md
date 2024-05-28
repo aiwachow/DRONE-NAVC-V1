@@ -1,10 +1,6 @@
 # NAVIGATION CONTROL SYSTEM - TEST BOARD 
 STM32 based flight controller for unmanned drone aircraft. <br />
-Pcb has been manufactured and tested. However this design isn't perfect. the main issues are: <br />
-- PCB is quite too large, 
-- selected microcontroller is difficult to access and was finally changed to STM32L4 .
-
-However this board works and i used it for educational purpose such as attitude estimation etc. 
+Created mainly for testing and learning to write firmware. 
 
 I am simultaneously designing a newer version of this controller: branch NAVC_V2. 
 
@@ -25,3 +21,8 @@ I also made basic 3D attitude visualization in Python.
 ![dronRoll](https://github.com/aiwachow/DRONE-NAVC-V1-STM32-KICAD/assets/92248273/389c8570-1078-4b80-856b-33aead92614f)
 ### Some theory behind attitude estimation in Polish 
 [Attitude_Estimation_Theory_Adam_Iwachów.pdf](https://github.com/aiwachow/DRONE-NAVC-V1/files/14794682/Attitude_Estimation_Theory_Adam_Iwachow.pdf)
+
+## Issues 
+Pcb has been manufactured and tested. However this design isn't perfect. the main issues are: <br />
+- PCB is quite too large, 
+- selected microcontroller is difficult to access and was finally changed to STM32L4 .
